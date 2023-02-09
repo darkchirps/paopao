@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fireAni",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.21666666666666667,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "20ce305d-0f06-4290-85a4-899203777858"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "4fb351f8-e9ca-4c78-bdd7-f8619292e874"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "16d0078f-a899-49bd-832d-3b0df00d36f9"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "522713b4-0aad-4986-b853-ba1caa107a1c"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "da859e16-b565-41b4-9587-652ef51e88ee"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

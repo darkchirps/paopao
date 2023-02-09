@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dianAni",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.16666666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0bdbc3ec-e9fb-486d-bd45-d52f84e66196"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "3120e25b-1b1c-4c0f-9264-1aff33affa22"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "b012f4f6-92de-4b4e-b082-18ae72d71c7d"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "f2767a6b-b04d-4648-b1d5-b6c49ea5640a"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "db564c03-2887-4e4e-9fd5-2e3d71da0cbb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
